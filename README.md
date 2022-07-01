@@ -2,6 +2,8 @@
 
 ## I am a programmer from Russia 
 
-Langs and Tools
+### Languages and Tools
+![Python](https://img.shields.io/badge/-Python-43DFF7?style=for-the-badge&logo=python)
+
 
 Follow 
