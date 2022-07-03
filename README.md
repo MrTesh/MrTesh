@@ -1,4 +1,4 @@
-![Header](https://github.com/MrTesh/MrTesh/blob/main/assets/3431360.jpg)
+![Header]https://github.com/MrTesh/MrTesh/blob/main/assets/logo.png)
 
 ## I am a programmer from Russia 
 
