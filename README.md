@@ -24,7 +24,7 @@
 
 ### :fire: My Stats :
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrTesh&theme=dark&ring=2AAB29&fire=2AAB29&currStreakLabel=2AAB29&border=2AAB29)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrTesh&theme=dark&ring=2AAB29&fire=2AAB29&currStreakLabel=2AAB29&)](https://git.io/streak-stats)
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTesh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
