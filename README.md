@@ -26,7 +26,5 @@
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrTesh&theme=dark&hide_border=true&fire=2AAB29&ring=2AAB29&currStreakLabel=2AAB29&background=0D1117)](https://git.io/streak-stats)
 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTesh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Follow 
 и тут -->
