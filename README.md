@@ -1,4 +1,4 @@
-## Software Developer From Russia.
+## Software Developer.
 
 **My skills**
 
