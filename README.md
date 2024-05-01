@@ -4,6 +4,8 @@
 
 * Currently employed
 
+* **6+** years of coding experience
+
 
 **My skills**
 
